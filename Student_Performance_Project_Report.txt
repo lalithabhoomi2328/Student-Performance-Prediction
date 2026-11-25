@@ -1,0 +1,31 @@
+
+PROJECT 3: SMART STUDENT PERFORMANCE PREDICTION
+
+1. Introduction:
+This project predicts student academic performance using Machine Learning.
+
+2. Objectives:
+- Analyze student study habits.
+- Evaluate attendance and previous marks.
+- Predict final examination marks.
+
+3. Technologies:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib.
+
+4. Algorithm:
+Random Forest Regression.
+
+5. Evaluation:
+Mean Absolute Error (MAE)
+R2 Score
+
+6. Output:
+- Student dataset
+- Trained ML model
+- Prediction results
+- Performance graph
+
+7. Conclusion:
+The system helps estimate student performance using academic and study-related factors.
+
+Note: This project uses synthetic sample data for demonstration.
